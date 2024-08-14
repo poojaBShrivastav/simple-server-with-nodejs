@@ -1,0 +1,8 @@
+#node folder will be ignore by git
+node_modules
+
+# these files will be also ignore by git 
+package.json
+package-lock.json
+
+# git will not puch these files in github
