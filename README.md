@@ -11,3 +11,6 @@ Here we will create simple server and prepare different route share files on the
 
 #To start
 npm start
+
+# routes screenshort
+![route1](https://github.com/user-attachments/assets/62b449e0-5003-4e1c-908c-2400e0a11a4a)
